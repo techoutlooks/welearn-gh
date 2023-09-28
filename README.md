@@ -30,8 +30,14 @@ npm start
 
 ## Production
 
-Create production build once satisfied.
+* To create production build once satisfied.
 
 ```shell
 npm run build
 ```
+
+* Deploy to GH pages 
+
+Define a custom build process. 
+1. Set `repo -> Settings -> Pages -> Build and deployment -> Source` to `GitHub Actions`
+2. Set `.github/jekyll.yml` as the custom workflow

@@ -12,7 +12,7 @@ theme_color: '#efeeff'
 twitter_username: ceduth
 github_username:  techoutooks
 author: Edouard Carvalho
-logo: assets/logo.png
+logo: ./assets/images/logo.png
 twitter:
   username: ceduth
 social:
