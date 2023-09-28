@@ -7,14 +7,14 @@ title: weLearn - Ed platform
 email: ceduth@techoutlooks.com
 description: Democratized learning!
 baseurl: "/welearn-gh" # the subpath of your site, e.g. /blog
-url: "https://techoutlooks.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://techoutlooks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 twitter_username: ceduth
 github_username:  techoutooks
 author: Edouard Carvalho
 logo: assets/logo.png
 twitter:
-  username: sandochee
+  username: ceduth
 social:
   name: Edouard Carvalho
   links:
