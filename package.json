@@ -1,10 +1,10 @@
 {
-  "name": "mobile-app-landingpage-template",
+  "name": "welearn-gh",
   "version": "1.0.0",
   "description": "Free to use static website template to showcase your mobile app",
   "main": "src/index.js",
   "repository": "git@github.com:sandoche/Mobile-app-landingpage-template.git",
-  "author": "Sandoche Adittane <sandoche@gmail.com>",
+  "author": "EC <ceduth@techoutlooks.com>",
   "license": "MIT",
   "scripts": {
     "start": "npm run-script clean:project && webpack --env config=dev --progress --profile --color && concurrently \"webpack-dev-server --env config=dev\" \"bundle exec jekyll serve\"",
